@@ -1,1 +1,1 @@
-nothing here yet
+Richard Chen's solutions to the Caltech 2015 CS Placements.
